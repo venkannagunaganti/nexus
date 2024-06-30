@@ -9,7 +9,7 @@ BVJS706A
  GFB0538  GF538A1               1   abgewiesene Verträge
  GFB0538  GF538A3               1  in zus. Fehlerdatei geschr. Sätze
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
- GFB0538  RETURN-CODE:               0
+ GFB0538  RETURN-CODE:  dwb              0
 GDG: BGPA.R3.PK0.BVPK050A.PK350AC.G5016V00
 GDG: BGPA.R1.JS0.BVJS706A.GF538A1.G2037V00
 modified
