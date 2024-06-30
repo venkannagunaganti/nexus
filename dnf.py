@@ -3,7 +3,7 @@ import os
 import pandas as pa
 from userfunctions import Extract_Patterns
 p2='C:/Users/vgunaganti/PycharmProjects/match/Jobs/p0_job_dnf1.txt'
-#dnf gets new feature
+#dnf gets new feature master
 def dnf_to_excel(p2):
 
         with open(p2, 'r') as f:
