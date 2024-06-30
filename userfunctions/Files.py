@@ -2,12 +2,7 @@ import os
 import shutil
 import zipfile
 import openpyxl
-import pandas as pd
 from win32com import client
-from openpyxl import load_workbook
-from reportlab.pdfgen import canvas
-from PIL import Image
-from openpyxl.drawing.image import Image
 
 
 # =============================================================================
@@ -79,7 +74,7 @@ def unzip_folder(zip_path):
 # =============================================================================
 #  Function name: create_file
 #  Author: <Kondri Satyannarayana>
-#  Description: Creates an empty file at the specified 'file_path' based on the file extension (TXT, CSV, XLSX, or PDF).
+#  Description: Creates an empty file at the specified 'file_path' based on the file extension (TXT, CSV, or XLSX.).
 #  Input Parameters: file_path (str) - The path to the file to be created.
 #  Output Parameters: NONE
 #  How to invoke?:  create_file(file_path)
@@ -102,9 +97,6 @@ def create_file(file_path):
     elif file_extension == 'xlsx':
         wb = openpyxl.Workbook()
         wb.save(file_path)
-    elif file_extension == 'pdf':
-        c = canvas.Canvas(file_path)
-        c.save()
     else:
         raise ValueError("Unsupported file type. Please use '.txt', '.csv', '.xlsx', or '.pdf'.")
 
@@ -128,7 +120,7 @@ def zip_file(file_to_zip, zip_file_path):
 # =============================================================================
 #  Function name: convert_to_pdf
 #  Author: <Kondri Satyannarayana>
-#  Description: Converts a given file (TXT, XLSX, CSV, DOCX, or image) located at 'file_path' into a PDF file
+#  Description: Converts a given file (TXT, DOC, DOCX) located at 'file_path' into a PDF file
 #                with the same name and in the same directory as the original file.
 #                If the input file is empty or unsupported, it creates an empty PDF.
 #  Input Parameters: file_path (str) - The path to the file to be converted.
@@ -163,27 +155,38 @@ def convert_to_pdf(file_path):
         doc.Close()
         word.Quit()
 
-    elif input_file_extension == '.csv':
-        # Using pandas to convert csv to PDF
-        df = pd.read_csv(file_path)
-        df.to_pdf(output_file, index=False)
-
-    elif input_file_extension in ['.xls', '.xlsx']:
-        # Using openpyxl to convert xls and xlsx to PDF
-        wb = load_workbook(file_path)
-        ws = wb.active
-
-        # Convert images to base64 strings to avoid image path issues in the PDF
-        for img in ws.images:
-            img[1].image = Image(img[1].image.filename)
-            img[1].image.format = "png"
-
-        wb.save(output_file)
-
     else:
         print("Error: File format not supported for conversion.")
         return
 
     print(f"File converted successfully. Saved as '{output_file}'")
+
+
+# =============================================================================
+#  Function name: open_excel_file
+#  Author: Kondri Satyannarayana
+#  Description: This function attempts to open an Excel file using the openpyxl library. It checks if the
+#               specified Excel file exists. If the file exists, it loads the workbook and returns it. If
+#               there's an error while opening the file, the function prints an error message, waits for a
+#               short duration, and then retries. If the file does not exist, the function also waits for a
+#               short duration before retrying.
+#  Input Parameters:excel_filename (str): The path to the Excel file to be opened.
+#  Output Parameters: Returns the loaded workbook object if successful, otherwise None.
+#  How to invoke?: workbook = open_excel_file("path/to/your/excel/file.xlsx")
+#    if workbook:
+#        # Perform operations on the workbook
+#  Date created: <14/08/2023>
+#  Date last modified & Changes done: <14/08/2023>
+# =============================================================================
+def open_excel_file(excel_filename):
+    while True:
+        if os.path.exists(excel_filename):
+            try:
+                wb = openpyxl.load_workbook(excel_filename)
+                return wb
+            except Exception as e:
+                print(f"An error occurred while opening the Excel file: {e}.")
+        else:
+            print(f"The Excel file '{excel_filename}' does not exist.")
 
 

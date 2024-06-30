@@ -1,4 +1,5 @@
 import re
+import string
 
 
 # ====================================================================================================================
@@ -14,18 +15,30 @@ import re
 # Date last modified & Changes done: 02/08/2023 - Initial version
 # =================================================================================================================
 
-def extract_info(input_file, output_file, patterns):
+def extract_info(input_file, output_file,patterns=r' '):
     try:
+        printable_chars = set(string.printable)
         # Open & Read input file, Open & Write output file
-        with open(input_file, 'r') as infile, open(output_file, 'w') as outfile:
+        with open(input_file, 'r',errors='ignore') as infile, open(output_file, 'w') as outfile:
+
             for line in infile:
+                line = line.replace('-', '')
+                # line = line.replace('E', 'e')
+                line = line.replace('~', '')
+                line = line.replace('=', '')
+                line = line.replace(r'ü|ä','')
+                line=line.replace('*','')
+                line = line.replace('', '')
+                line=line.replace('','')
+                cleaned_line = ''.join(char for char in line if char in printable_chars)
                 for pattern in patterns:
-                    if re.search(pattern, line):
-                        outfile.write(line)
+                    if re.search(pattern, cleaned_line):
+                        outfile.write(cleaned_line)
                         break
-        print(f"Extraction complete. Results saved to '{output_file}'.")
     except FileNotFoundError:
         print(f"Error: The file '{input_file}' could not be found.")
+    except FileNotFoundError:
+        print(f"Error: The file '{output_file}' could not be found.")
     except Exception as e:
         print(f"An error occurred: {e}")
 

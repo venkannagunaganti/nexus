@@ -21,11 +21,11 @@ from email import encoders
 # =====================================================================================================================
 
 
-def send_email(sender_email, sender_password, receiver_emails, subject, body, attachment_paths=None):
+def send_email(sender_email, sender_password, receiver_emails, subject, body, smtp_server,smtp,attachment_paths=None):
     # Set up the SMTP server
-    smtp_server = 'smtp.gmail.com'
+    smtp_server = smtp_server
     # The port number
-    smtp_port = 587
+    smtp_port = smtp
 
     try:
         # Create a multipart message
@@ -59,5 +59,6 @@ def send_email(sender_email, sender_password, receiver_emails, subject, body, at
 
     except Exception as e:
         print("Error sending email:", str(e))
+
 
 
