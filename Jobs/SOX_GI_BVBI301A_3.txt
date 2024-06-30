@@ -1,0 +1,22 @@
+  ======================================================================================================================================================
+  BVBI301A
+  ~~~~~~~~
+> SYSOUT ID: BVBI301A                            JOBNAME: BVBI301A       PRINT DATE: 03/01/2024       ARCHIVE DATE: 02/01/2024
+  GEN:       5719                                JOBID:   J0068079       PRINT TIME: 14:59:44         ARCHIVE TIME: 23:17:08
+  ------------------------------------------------------------------------------------------------------------------------------------------------------
+U3003001.02I - fehlerhafte Stze                 000000032
+BBIBAWV1.03I - fehlerhafte Archiv-Anstsse       0000000
+BBIBAWV1.08I - fehlerhafte Termin-Anstsse       0000000
+U3004606.10F - ACHTUNG! Errechneter Sollin 0000000000000 ungleich gespeichertem Sollin 0000000000500 INKNR  21 11753180
+U3004606.10F - ACHTUNG! Errechneter Sollin 0000000000000 ungleich gespeichertem Sollin 0000000000500 INKNR  21 30012007
+U3004606.10F - ACHTUNG! Errechneter Sollin 0000000000000 ungleich gespeichertem Sollin 0000000001000 INKNR  21 40355030
+U3004606.10F - ACHTUNG! Errechneter Sollin 0000000000000 ungleich gespeichertem Sollin 0000000000500 INKNR  21 50006098
+U3004603.51F - INKNR 802389002371: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6346840
+U3004603.51F - INKNR 802389005338: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6505943
+U3004603.51F - INKNR 802389007527: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6506587
+U3004603.51F - INKNR 802389007926: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6520075
+  
+> U3004601     -   Verarbeitungs-Protokoll aus Verbuchung der Beitrags-Zu- und -Abgnge
+  
+  U3004601.01I - Aufrufe normal                     000007631
+  U3004601.02I - Aufrufe fehlerhaft                 000000000

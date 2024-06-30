@@ -1,0 +1,25 @@
+  ======================================================================================================================================================
+  BVBI301A
+  ~~~~~~~~
+> SYSOUT ID: BVBI301A                            JOBNAME: BVBI301A       PRINT DATE: 03/01/2024       ARCHIVE DATE: 02/01/2024
+  GEN:       5719                                JOBID:   J0068079       PRINT TIME: 14:59:44         ARCHIVE TIME: 23:17:08
+  ------------------------------------------------------------------------------------------------------------------------------------------------------
+Z3001000.00I - Start: 02.01.2024, 23:13:50 Uhr. Programmversion vom: 17.02.23, 16:17:04 Uhr (Cobol 2)
+Z3001000.09I - Beginn Verarbeitung nach Sortin    0000007631
+Z3001000.01I - ANZAHL SAETZE GELESEN:             0000025411
+Z3001000.02I - ANZAHL SAETZE SA=3XX SORTIERT:     0000007631
+Z3001000.02I -        SAETZE TYP=130/133:         0000004832
+Z3001000.03I - ANZAHL SEGMENTE GEPRFT:           0000009339
+Z3001000.03I -        BAV-SPARTE VORHANDEN:       0000000049
+Z3001000.03I -        SUMMEN-SEGMENTE:            0000000049
+Z3001000.03I -        BAV-SPARTE ERGNZT:         0000009241
+Z3001000.03I -        BAV-SPARTE FEHLT:           0000000000
+Z3001000.03I - ANZAHL SONSTIGE FEHLER:            0000000000
+Z3001000.04I - ANZAHL SAETZE AUSGEGEBEN:          0000025411
+Z3001000.04I -        SAETZE SA=3XX (=> U3003011) 0000007631
+Z3001000.05I - ANZAHL SAETZE VORGETRAGEN:         0000000000
+Z3001000.05I -    FR ANZAHL FLLIGKEITEN:        0000000000
+Z3001000.05I -        DAVON  MIT FUB:             0000000000
+Z3001000.05I -    MIT ANZAHL SATZTYP 133:         0000000000
+Z3001000.05I -    MIT ANZAHL SATZTYP 139:         0000000000
+Z3001000.03I - ANZAHL SONSTIGE FEHLER:            0000000000

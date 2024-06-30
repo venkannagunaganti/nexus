@@ -1,0 +1,17 @@
+  ======================================================================================================================================================
+  BVBI020K
+  ~~~~~~~~
+> SYSOUT ID: BVBI020K                            JOBNAME: BVBI020K       PRINT DATE: 03/01/2024       ARCHIVE DATE: 02/01/2024
+  GEN:       5719                                JOBID:   J0067893       PRINT TIME: 14:52:15         ARCHIVE TIME: 23:09:45
+  ------------------------------------------------------------------------------------------------------------------------------------------------------
+  495 STORNIERUNGEN VON BESTAND GELIEFERT
+> 0 ABGELEHNT
+  495 IN BEW-DATEI BERNOMMEN
+  0 IN BEW-DATEI AKTUALISIERT (KEY BEREITS VORHANDEN)
+  0 FR PROLONGATION VORGETRAGEN        (LEBEN)
+  0 ABS-ENDE      VON BESTAND GELIEFERT
+  0 DAVON FHREN ZU DATUMSNDERUNGEN
+  0 FR STORNO NACH NEUZUGANG VORGETRAGEN  (NL)
+  0 DAVON MIT BUA 9900
+  
+  E N D E        E N D E        E N D E        E N D E        E N D E

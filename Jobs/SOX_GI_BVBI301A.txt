@@ -1,0 +1,110 @@
+  ======================================================================================================================================================
+  BVBI301A
+  ~~~~~~~~
+> SYSOUT ID: BVBI301A                            JOBNAME: BVBI301A       PRINT DATE: 03/01/2024       ARCHIVE DATE: 02/01/2024
+  GEN:       5719                                JOBID:   J0068079       PRINT TIME: 14:52:15         ARCHIVE TIME: 23:17:08
+  ------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+> U3003091       ABSTIMMPROTOKOLL ZUR DATENUMSETZUNG AUS DIVERSEN SYSTEMEN
+  
+  SA  BUA  IKW BUCH-DAT  STUECK          BEITRAG         PROVISION             SALDO
+  301 1...  0  02.01.24     238       392.345,63         13.884,95-       378.460,68
+  301 1...  1  02.01.24    1850       599.050,34              0,00        599.050,34
+  301 2...  0  02.01.24      76        33.509,07-         2.701,48         30.807,59-
+  301 2...  1  02.01.24    1501       428.137,55-             0,00        428.137,55-
+  301 ZW-SUMME             3665       529.749,35         11.183,47-       518.565,88
+  301 1...  1  01.02.24     305        39.738,57              0,00         39.738,57
+  301 ZW-SUMME              305        39.738,57              0,00         39.738,57
+  302 1...  1  02.01.24       8           218,40              0,00            218,40
+  302 2...  1  02.01.24       1            13,50-             0,00             13,50-
+  302 ZW-SUMME                9           204,90              0,00            204,90
+  303 1...  0  02.01.24     160     4.002.776,41        112.768,04-     3.890.008,37
+  303 1...  1  02.01.24     311       923.386,46         30.340,34-       893.046,12
+  303 2...  0  02.01.24      33       176.055,95-        12.288,89        163.767,06-
+  303 2...  1  02.01.24     174       119.956,20-            33,14        119.923,06-
+  303 ZW-SUMME              678     4.630.150,72        130.786,35-     4.499.364,37
+  305 1...  1  02.01.24      30       607.820,70              0,00        607.820,70
+  305 2...  1  02.01.24      11         3.112,42-             0,00          3.112,42-
+  305 9...  1  02.01.24       6         2.325,05-             0,00          2.325,05-
+  305 ZW-SUMME               47       602.383,23              0,00        602.383,23
+  
+  GESAMT-SUMME             4704     5.802.226,77        141.969,82-     5.660.256,95
+  303 1...  Z  02.01.24      25        74.240,30         10.106,00-        64.134,30
+  
+  GES.-ZESSION               25        74.240,30         10.106,00-        64.134,30
+  
+  U3003002           R E T O U R E N - B E A R B E I T U N G
+  
+  U3003002.01I - Aufrufe normal                    000000002
+  U3003002.02I - Aufrufe fehlerhaft                000000000
+  U3003002.03I - Eingaben bearbeitet               000000000
+  U3003002.04I - Batch-Retouren insgesamt          000000082
+  U3003002.05I - Batch-Retouren    SA 401          000000041
+  U3003002.05I - Batch-Retouren    SA 402          000000041
+  U3003002.06I - Reaktiv. aus .OPS/SA 403          000000000
+  U3003002.07I - Stze fr Inkassodatei            000000048
+  U3003002.08I - AK-Stze fr Bewegungsdat.        000000001
+  U3003002.09I - BUA-Stze fr Bewegungsdat.       000000001
+  U3003002.10I - Updates in Inkassodatei           000000047
+> U3003011.17I - BBIBAPAE, Prfung fr CAPAEND     000000008
+  U3003011.22I - BBIBIKL,  Inkasso-Kontrolle       000004729
+  
+> BBIBAPAE.90I - Anzahl Aufrufe normal             000000008
+> BBIBAPAE.90I - Anzahl Aufrufe fehlerhaft         000000000
+  BBIBAPAE.91I - Lesezugriffe  Vertrieb            000000007
+> BBIBAPAE.98I - CAPAEND-Stze geschrieben         000000008
+  BBIBAPAE.99I -         ohne  Personal-Nummer     000000000
+  
+> U3003055         AUFBEREITEN BUCHUNGSSAETZE
+  
+  U3003055.01I - Buchungsstze erhalten            000024536
+  U3003055.01I -       davon Bereichsbergreifend  000000006
+  U3003055.01I -       davon SA=690 Konto 175211   000000000
+  U3003055.01I -       davon SA=691 Konto 175800   000000000
+  U3003055.02I - Stze fr SAP/Buli/Agt-Liste      000051811
+  U3003055.04I - Stze fr DI-Prov-Fhrung DH-VAS  000000010
+  fr Konto 131217 (BUK 21)                   495,83-
+  fr Konto 131217 (BUK 02)                     0,00
+  U3003055.05I - Stze von DH-VAS                  000000000
+  
+  
+  U3003051         AUFBEREITEN PRAEMIENSTATISITIK
+  
+  U3003051.01I - Stze gelesen                     000006003
+  U3003051.02I - Stze ausgegeben                  000006003
+  Buchwert Fhrung 131217 (BUK 21)            495,83
+  Buchwert Fhrung 131217 (BUK 02)              0,00
+  U3003051.03I - Stze ausgegeben fr DH-VAS       000000000
+  
+  
+  
+  BBIBIKL  Aufbereiten Stze fr Inkasso-Kontrolle
+  
+  BBIBIKL.91I - Anzahl Aufrufe                    000005989
+  BBIBIKL.91I -        davon fehlerhaft           000000000
+  BBIBIKL.92I - Anzahl ausgegebene Stze          000005989
+  BBIBIKL.92I -        davon Partizip.Agentur     000000000
+  BBIBIKL.93I -    fr Alleinzeichnung            000005902
+  BBIBIKL.93I -        davon Partizip.Agentur     000000000
+  
+> BBIB1200                  UPDATE ZE AUS SAP
+  
+  BBIB1200.01I - SAP Stze     gelesen              0001274
+  BBIB1200.02I - SAP Stze     verarbeitet          0001274
+  BBIB1200.03I - Falsche BUA (nicht 3992/5110/5180) 0000000
+  BBIB1200.04I - Kein Satz zum KEY gefunden         0000000
+  BBIB1200.05I - Update nicht erfolgreich           0000000
+  BBIB1200.06I - Anzahl Stze fr BUA-Statistik     0001274
+  BBIB1200.07I - Summe Zhler 02I bis 05I mu gleich Zhler 01I sein
+  
+  BBIB1200.08I - Anzahl Update mit Ausgleichsdatum  02.01.2024  = 001274
+U3003001.02I - fehlerhafte Stze                 000000000
+U3003011.12I - fehlerhafte Datenstze            000000000
+U3003004.03I - fehlerhafte Aufrufe               000000000
+U3003005.02I - Fehlerhafte Aufrufe               000000000
+BBIBAWV1.03I - fehlerhafte Archiv-Anstsse       0000000
+BBIBAWV1.08I - fehlerhafte Termin-Anstsse       0000000
+U3003003.51F - INKNR 802389007527: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6506587
+U3003003.51F - INKNR 802389002371: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6346840
+U3003003.51F - INKNR 802389005338: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6505943
+U3003003.51F - INKNR 802389007926: ALTE NUMMER UNGLEICH STELLE 5-11 DER NEUEN NUMMER    A  6520075

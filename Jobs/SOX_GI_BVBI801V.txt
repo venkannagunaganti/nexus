@@ -1,0 +1,22 @@
+  ======================================================================================================================================================
+  BVBI801V
+  ~~~~~~~~
+> SYSOUT ID: BVBI801V                            JOBNAME: BVBI801V       PRINT DATE: 03/01/2024       ARCHIVE DATE: 28/12/2023
+  GEN:       5713                                JOBID:   J0062590       PRINT TIME: 14:52:16         ARCHIVE TIME: 00:35:31
+  ------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+> BBIBDE01.99I - A B S T I M M W E R T E
+  
+  BBIBDE01.99I - STZE VON EINGABE GELESEN          000848894
+  
+  BBIBDE01.99I - ABTEILUNG NICHT VORHANDEN          000848894
+  BBIBDE01.99I - ABTEILUNG ERGNZT                  000848502
+  BBIBDE01.99I - ABTEILUNG NICHT ZU ERMITTELN       000000392
+  
+  BBIBDE01.99I - INKASSO-ZUGRIFFE                   000756843
+  BBIBDE01.99I - INKASSO-KONTO NICHT VORHANDEN      000000003
+  
+  BBIBDE01.99I - STZE AUF AUSGABE GESCHRIEBEN      000848894
+  BBIBDE01.99I -       FR SA=350                   000848867
+  BBIBDE01.99I -       FR SA=353                   000000027
+  

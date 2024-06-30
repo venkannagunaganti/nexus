@@ -1,0 +1,14 @@
+BVJS706A
+~~~~~~~~
+* SYSOUT ID: BVJS706A                            JOBNAME: BVJS706A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     *
+* GEN:       5671                                JOBID:   J0094195       PRINT TIME: 07:09:15         ARCHIVE TIME: 21:44:08       *
+ GFB0538  403550352467 FEHLER im Satz            799 ---> Antrag : FS1000188747
+ GFB0538  Vertrag wird nicht verarbeitet, als Vorgang in ZWF:
+ GFB0538  Vertrag Ges: A     VSNR: 403550352467 bei Vertrieb nicht gefunden
+ GFB0538  GF538A1               9  Fehlersätze geschrieben - das sind
+ GFB0538  GF538A1               1   abgewiesene Verträge
+ GFB0538  GF538A3               1  in zus. Fehlerdatei geschr. Sätze
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ GFB0538  RETURN-CODE:               0
+GDG: BGPA.R3.PK0.BVPK050A.PK350AC.G5016V00
+GDG: BGPA.R1.JS0.BVJS706A.GF538A1.G2037V00

@@ -1,0 +1,346 @@
+ SYSOUT ID: BVPK261A                            JOBNAME: BVPK261A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0030355       PRINT TIME: 07:06:29         ARCHIVE TIME: 22:45:28       
+ PKB0912  RETURN-CODE:               0BVPK262A
+ SYSOUT ID: BVPK262A                            JOBNAME: BVPK262A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0031605       PRINT TIME: 07:06:29         ARCHIVE TIME: 23:28:44       
+ GDVS013A RETURN-CODE:          0BVPK106A
+ SYSOUT ID: BVPK106A                            JOBNAME: BVPK106A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055107       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:43       
+ PSB0026  RETURN-CODE:               0BVPK106B
+ SYSOUT ID: BVPK106B                            JOBNAME: BVPK106B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055379       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:50:20       
+ PHB0026  RETURN-CODE:               0BVPK106C
+ SYSOUT ID: BVPK106C                            JOBNAME: BVPK106C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055655       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:51:38       
+ PUB0026  RETURN-CODE:               0BVPK106D
+ SYSOUT ID: BVPK106D                            JOBNAME: BVPK106D       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055740       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:22       
+ PRB0026  RETURN-CODE:               0BVPK106E
+ SYSOUT ID: BVPK106E                            JOBNAME: BVPK106E       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055833       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:39       BVPK001A
+ SYSOUT ID: BVPK001A                            JOBNAME: BVPK001A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093235       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:28:24       
+ PKB0004  RETURN-CODE:               0BVPK017A
+ SYSOUT ID: BVPK017A                            JOBNAME: BVPK017A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093309       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:32       
+ PKB0027  RETURN-CODE:               0
+ PKB0007  RETURN-CODE:               0BVPK006A
+ SYSOUT ID: BVPK006A                            JOBNAME: BVPK006A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093330       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:36:01       
+ PKB0056  RETURN-CODE:               0BVPK010A
+ SYSOUT ID: BVPK010A                            JOBNAME: BVPK010A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093331       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0024  RETURN-CODE:               0BVPK016A
+ SYSOUT ID: BVPK016A                            JOBNAME: BVPK016A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093333       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0071  RETURN-CODE:               0BVPK002B
+ SYSOUT ID: BVPK002B                            JOBNAME: BVPK002B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093335       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:32:57       
+ PKB0081  RETURN-CODE:               0BVPK002C
+ SYSOUT ID: BVPK002C                            JOBNAME: BVPK002C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093435       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:26       
+ PKB0081  GES: A VSNR: 870522310268 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870522310268 Fälligkeit: 20231114
+ PKB0081  GES: A VSNR: 870523785197 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870523785197 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 870525019211 Fälligkeit: 20231111 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870525019211 Fälligkeit: 20231111
+ PKB0081  GES: A VSNR: 870553022937 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870553022937 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 880120006355 Fälligkeit: 20231115 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880120006355 Fälligkeit: 20231115
+ PKB0081  GES: A VSNR: 880520215123 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880520215123 Fälligkeit: 20231114
+ PKB0081  RETURN-CODE:               4BVPK004A
+ SYSOUT ID: BVPK004A                            JOBNAME: BVPK004A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094422       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:31       
+ PKB0007  RETURN-CODE:               0BVPK008C
+ SYSOUT ID: BVPK008C                            JOBNAME: BVPK008C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094497       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:47:10       
+ PKB0020  RETURN-CODE:               0BVPK019A
+ SYSOUT ID: BVPK019A                            JOBNAME: BVPK019A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0095562       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:59:11       
+ PKB0108  RETURN-CODE:               0BVPK100B
+ SYSOUT ID: BVPK100B                            JOBNAME: BVPK100B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0096676       PRINT TIME: 07:06:28         ARCHIVE TIME: 22:20:00       
+ PKB0003  RETURN-CODE:               0BVPK005A
+ SYSOUT ID: BVPK005A                            JOBNAME: BVPK005A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0098100       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:07:00       
+ PKB0109  RETURN-CODE:               4BVPK111A
+ SYSOUT ID: BVPK111A                            JOBNAME: BVPK111A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 10/11/2023     
+ GEN:       5666                                JOBID:   J0119956       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:12       
+ SYSOUT ID: BVPK264A                            JOBNAME: BVPK264A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 17/10/2023     
+ GEN:       5641                                JOBID:   J0131674       PRINT TIME: 07:06:30         ARCHIVE TIME: 10:59:17       
+ GDVS013A RETURN-CODE:          0
+ PKB0912  RETURN-CODE:               0BVPK112B
+ SYSOUT ID: BVPK112B                            JOBNAME: BVPK112B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161702       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:01:57       
+ SYSOUT ID: BVPK112A                            JOBNAME: BVPK112A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161703       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:31       
+ SYSOUT ID: BVPK112C                            JOBNAME: BVPK112C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161826       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:06       
+ GDVS013A RETURN-CODE:          0BVPK260A
+ SYSOUT ID: BVPK260A                            JOBNAME: BVPK260A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 23/10/2023     
+ GEN:       5648                                JOBID:   J0176106       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:41:56       
+ PKB0918  RETURN-CODE:               0BVPK261A
+ SYSOUT ID: BVPK261A                            JOBNAME: BVPK261A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0030355       PRINT TIME: 07:06:29         ARCHIVE TIME: 22:45:28       
+ PKB0912  RETURN-CODE:               0BVPK262A
+ SYSOUT ID: BVPK262A                            JOBNAME: BVPK262A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0031605       PRINT TIME: 07:06:29         ARCHIVE TIME: 23:28:44       
+ GDVS013A RETURN-CODE:          0BVPK106A
+ SYSOUT ID: BVPK106A                            JOBNAME: BVPK106A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055107       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:43       
+ PSB0026  RETURN-CODE:               0BVPK106B
+ SYSOUT ID: BVPK106B                            JOBNAME: BVPK106B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055379       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:50:20       
+ PHB0026  RETURN-CODE:               0BVPK106C
+ SYSOUT ID: BVPK106C                            JOBNAME: BVPK106C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055655       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:51:38       
+ PUB0026  RETURN-CODE:               0BVPK106D
+ SYSOUT ID: BVPK106D                            JOBNAME: BVPK106D       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055740       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:22       
+ PRB0026  RETURN-CODE:               0BVPK106E
+ SYSOUT ID: BVPK106E                            JOBNAME: BVPK106E       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055833       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:39       BVPK001A
+ SYSOUT ID: BVPK001A                            JOBNAME: BVPK001A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093235       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:28:24       
+ PKB0004  RETURN-CODE:               0BVPK017A
+ SYSOUT ID: BVPK017A                            JOBNAME: BVPK017A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093309       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:32       
+ PKB0027  RETURN-CODE:               0
+ PKB0007  RETURN-CODE:               0BVPK006A
+ SYSOUT ID: BVPK006A                            JOBNAME: BVPK006A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093330       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:36:01       
+ PKB0056  RETURN-CODE:               0BVPK010A
+ SYSOUT ID: BVPK010A                            JOBNAME: BVPK010A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093331       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0024  RETURN-CODE:               0BVPK016A
+ SYSOUT ID: BVPK016A                            JOBNAME: BVPK016A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093333       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0071  RETURN-CODE:               0BVPK002B
+ SYSOUT ID: BVPK002B                            JOBNAME: BVPK002B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093335       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:32:57       
+ PKB0081  RETURN-CODE:               0BVPK002C
+ SYSOUT ID: BVPK002C                            JOBNAME: BVPK002C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093435       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:26       
+ PKB0081  GES: A VSNR: 870522310268 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870522310268 Fälligkeit: 20231114
+ PKB0081  GES: A VSNR: 870523785197 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870523785197 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 870525019211 Fälligkeit: 20231111 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870525019211 Fälligkeit: 20231111
+ PKB0081  GES: A VSNR: 870553022937 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870553022937 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 880120006355 Fälligkeit: 20231115 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880120006355 Fälligkeit: 20231115
+ PKB0081  GES: A VSNR: 880520215123 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880520215123 Fälligkeit: 20231114
+ PKB0081  RETURN-CODE:               4BVPK004A
+ SYSOUT ID: BVPK004A                            JOBNAME: BVPK004A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094422       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:31       
+ PKB0007  RETURN-CODE:               0BVPK008C
+ SYSOUT ID: BVPK008C                            JOBNAME: BVPK008C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094497       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:47:10       
+ PKB0020  RETURN-CODE:               0BVPK019A
+ SYSOUT ID: BVPK019A                            JOBNAME: BVPK019A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0095562       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:59:11       
+ PKB0108  RETURN-CODE:               0BVPK100B
+ SYSOUT ID: BVPK100B                            JOBNAME: BVPK100B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0096676       PRINT TIME: 07:06:28         ARCHIVE TIME: 22:20:00       
+ PKB0003  RETURN-CODE:               0BVPK005A
+ SYSOUT ID: BVPK005A                            JOBNAME: BVPK005A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0098100       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:07:00       
+ PKB0109  RETURN-CODE:               4BVPK111A
+ SYSOUT ID: BVPK111A                            JOBNAME: BVPK111A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 10/11/2023     
+ GEN:       5666                                JOBID:   J0119956       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:12       
+ SYSOUT ID: BVPK264A                            JOBNAME: BVPK264A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 17/10/2023     
+ GEN:       5641                                JOBID:   J0131674       PRINT TIME: 07:06:30         ARCHIVE TIME: 10:59:17       
+ GDVS013A RETURN-CODE:          0
+ PKB0912  RETURN-CODE:               0BVPK112B
+ SYSOUT ID: BVPK112B                            JOBNAME: BVPK112B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161702       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:01:57       
+ SYSOUT ID: BVPK112A                            JOBNAME: BVPK112A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161703       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:31       
+ SYSOUT ID: BVPK112C                            JOBNAME: BVPK112C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161826       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:06       
+ GDVS013A RETURN-CODE:          0BVPK260A
+ SYSOUT ID: BVPK260A                            JOBNAME: BVPK260A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 23/10/2023     
+ GEN:       5648                                JOBID:   J0176106       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:41:56       
+ PKB0918  RETURN-CODE:               0BVPK261A
+ SYSOUT ID: BVPK261A                            JOBNAME: BVPK261A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0030355       PRINT TIME: 07:06:29         ARCHIVE TIME: 22:45:28       
+ PKB0912  RETURN-CODE:               0BVPK261A
+ SYSOUT ID: BVPK261A                            JOBNAME: BVPK261A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0030355       PRINT TIME: 07:06:29         ARCHIVE TIME: 22:45:28       
+ PKB0912  RETURN-CODE:               0BVPK261A
+ SYSOUT ID: BVPK261A                            JOBNAME: BVPK261A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0030355       PRINT TIME: 07:06:29         ARCHIVE TIME: 22:45:28       
+ PKB0912  RETURN-CODE:               0BVPK262A
+ SYSOUT ID: BVPK262A                            JOBNAME: BVPK262A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0031605       PRINT TIME: 07:06:29         ARCHIVE TIME: 23:28:44       
+ GDVS013A RETURN-CODE:          0BVPK106A
+ SYSOUT ID: BVPK106A                            JOBNAME: BVPK106A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055107       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:43       
+ PSB0026  RETURN-CODE:               0BVPK106B
+ SYSOUT ID: BVPK106B                            JOBNAME: BVPK106B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055379       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:50:20       
+ PHB0026  RETURN-CODE:               0BVPK106C
+ SYSOUT ID: BVPK106C                            JOBNAME: BVPK106C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055655       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:51:38       
+ PUB0026  RETURN-CODE:               0BVPK106D
+ SYSOUT ID: BVPK106D                            JOBNAME: BVPK106D       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055740       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:22       
+ PRB0026  RETURN-CODE:               0BVPK106E
+ SYSOUT ID: BVPK106E                            JOBNAME: BVPK106E       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055833       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:39       BVPK001A
+ SYSOUT ID: BVPK001A                            JOBNAME: BVPK001A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093235       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:28:24       
+ PKB0004  RETURN-CODE:               0BVPK017A
+ SYSOUT ID: BVPK017A                            JOBNAME: BVPK017A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093309       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:32       
+ PKB0027  RETURN-CODE:               0
+ PKB0007  RETURN-CODE:               0BVPK006A
+ SYSOUT ID: BVPK006A                            JOBNAME: BVPK006A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093330       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:36:01       
+ PKB0056  RETURN-CODE:               0BVPK010A
+ SYSOUT ID: BVPK010A                            JOBNAME: BVPK010A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093331       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0024  RETURN-CODE:               0BVPK016A
+ SYSOUT ID: BVPK016A                            JOBNAME: BVPK016A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093333       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0071  RETURN-CODE:               0BVPK002B
+ SYSOUT ID: BVPK002B                            JOBNAME: BVPK002B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093335       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:32:57       
+ PKB0081  RETURN-CODE:               0BVPK002C
+ SYSOUT ID: BVPK002C                            JOBNAME: BVPK002C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093435       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:26       
+ PKB0081  GES: A VSNR: 870522310268 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870522310268 Fälligkeit: 20231114
+ PKB0081  GES: A VSNR: 870523785197 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870523785197 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 870525019211 Fälligkeit: 20231111 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870525019211 Fälligkeit: 20231111
+ PKB0081  GES: A VSNR: 870553022937 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870553022937 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 880120006355 Fälligkeit: 20231115 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880120006355 Fälligkeit: 20231115
+ PKB0081  GES: A VSNR: 880520215123 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880520215123 Fälligkeit: 20231114
+ PKB0081  RETURN-CODE:               4BVPK004A
+ SYSOUT ID: BVPK004A                            JOBNAME: BVPK004A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094422       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:31       
+ PKB0007  RETURN-CODE:               0BVPK008C
+ SYSOUT ID: BVPK008C                            JOBNAME: BVPK008C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094497       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:47:10       
+ PKB0020  RETURN-CODE:               0BVPK019A
+ SYSOUT ID: BVPK019A                            JOBNAME: BVPK019A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0095562       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:59:11       
+ PKB0108  RETURN-CODE:               0BVPK100B
+ SYSOUT ID: BVPK100B                            JOBNAME: BVPK100B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0096676       PRINT TIME: 07:06:28         ARCHIVE TIME: 22:20:00       
+ PKB0003  RETURN-CODE:               0BVPK005A
+ SYSOUT ID: BVPK005A                            JOBNAME: BVPK005A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0098100       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:07:00       
+ PKB0109  RETURN-CODE:               4BVPK111A
+ SYSOUT ID: BVPK111A                            JOBNAME: BVPK111A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 10/11/2023     
+ GEN:       5666                                JOBID:   J0119956       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:12       
+ SYSOUT ID: BVPK264A                            JOBNAME: BVPK264A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 17/10/2023     
+ GEN:       5641                                JOBID:   J0131674       PRINT TIME: 07:06:30         ARCHIVE TIME: 10:59:17       
+ GDVS013A RETURN-CODE:          0
+ PKB0912  RETURN-CODE:               0BVPK112B
+ SYSOUT ID: BVPK112B                            JOBNAME: BVPK112B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161702       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:01:57       
+ SYSOUT ID: BVPK112A                            JOBNAME: BVPK112A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161703       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:31       
+ SYSOUT ID: BVPK112C                            JOBNAME: BVPK112C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161826       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:06       
+ GDVS013A RETURN-CODE:          0BVPK260A
+ SYSOUT ID: BVPK260A                            JOBNAME: BVPK260A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 23/10/2023     
+ GEN:       5648                                JOBID:   J0176106       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:41:56       
+ PKB0918  RETURN-CODE:               0BVPK261A
+ SYSOUT ID: BVPK261A                            JOBNAME: BVPK261A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0030355       PRINT TIME: 07:06:29         ARCHIVE TIME: 22:45:28       
+ PKB0912  RETURN-CODE:               0BVPK262A
+ SYSOUT ID: BVPK262A                            JOBNAME: BVPK262A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/10/2023     
+ GEN:       5638                                JOBID:   J0031605       PRINT TIME: 07:06:29         ARCHIVE TIME: 23:28:44       
+ GDVS013A RETURN-CODE:          0BVPK106A
+ SYSOUT ID: BVPK106A                            JOBNAME: BVPK106A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055107       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:43       
+ PSB0026  RETURN-CODE:               0BVPK106B
+ SYSOUT ID: BVPK106B                            JOBNAME: BVPK106B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055379       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:50:20       
+ PHB0026  RETURN-CODE:               0BVPK106C
+ SYSOUT ID: BVPK106C                            JOBNAME: BVPK106C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055655       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:51:38       
+ PUB0026  RETURN-CODE:               0BVPK106D
+ SYSOUT ID: BVPK106D                            JOBNAME: BVPK106D       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055740       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:22       
+ PRB0026  RETURN-CODE:               0BVPK106E
+ SYSOUT ID: BVPK106E                            JOBNAME: BVPK106E       PRINT DATE: 16/11/2023       ARCHIVE DATE: 14/11/2023     
+ GEN:       5670                                JOBID:   J0055833       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:53:39       BVPK001A
+ SYSOUT ID: BVPK001A                            JOBNAME: BVPK001A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093235       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:28:24       
+ PKB0004  RETURN-CODE:               0BVPK017A
+ SYSOUT ID: BVPK017A                            JOBNAME: BVPK017A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093309       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:32       
+ PKB0027  RETURN-CODE:               0
+ PKB0007  RETURN-CODE:               0BVPK006A
+ SYSOUT ID: BVPK006A                            JOBNAME: BVPK006A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093330       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:36:01       
+ PKB0056  RETURN-CODE:               0BVPK010A
+ SYSOUT ID: BVPK010A                            JOBNAME: BVPK010A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093331       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0024  RETURN-CODE:               0BVPK016A
+ SYSOUT ID: BVPK016A                            JOBNAME: BVPK016A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093333       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:23       
+ PKB0071  RETURN-CODE:               0BVPK002B
+ SYSOUT ID: BVPK002B                            JOBNAME: BVPK002B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093335       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:32:57       
+ PKB0081  RETURN-CODE:               0BVPK002C
+ SYSOUT ID: BVPK002C                            JOBNAME: BVPK002C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0093435       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:26       
+ PKB0081  GES: A VSNR: 870522310268 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870522310268 Fälligkeit: 20231114
+ PKB0081  GES: A VSNR: 870523785197 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870523785197 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 870525019211 Fälligkeit: 20231111 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870525019211 Fälligkeit: 20231111
+ PKB0081  GES: A VSNR: 870553022937 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870553022937 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 880120006355 Fälligkeit: 20231115 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880120006355 Fälligkeit: 20231115
+ PKB0081  GES: A VSNR: 880520215123 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880520215123 Fälligkeit: 20231114
+ PKB0081  RETURN-CODE:               4BVPK004A
+ SYSOUT ID: BVPK004A                            JOBNAME: BVPK004A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094422       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:31       
+ PKB0007  RETURN-CODE:               0BVPK008C
+ SYSOUT ID: BVPK008C                            JOBNAME: BVPK008C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0094497       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:47:10       
+ PKB0020  RETURN-CODE:               0BVPK019A
+ SYSOUT ID: BVPK019A                            JOBNAME: BVPK019A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0095562       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:59:11       
+ PKB0108  RETURN-CODE:               0BVPK100B
+ SYSOUT ID: BVPK100B                            JOBNAME: BVPK100B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0096676       PRINT TIME: 07:06:28         ARCHIVE TIME: 22:20:00       
+ PKB0003  RETURN-CODE:               0BVPK005A
+ SYSOUT ID: BVPK005A                            JOBNAME: BVPK005A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     
+ GEN:       5671                                JOBID:   J0098100       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:07:00       
+ PKB0109  RETURN-CODE:               4BVPK111A
+ SYSOUT ID: BVPK111A                            JOBNAME: BVPK111A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 10/11/2023     
+ GEN:       5666                                JOBID:   J0119956       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:46:12       
+ SYSOUT ID: BVPK264A                            JOBNAME: BVPK264A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 17/10/2023     
+ GEN:       5641                                JOBID:   J0131674       PRINT TIME: 07:06:30         ARCHIVE TIME: 10:59:17       
+ GDVS013A RETURN-CODE:          0
+ PKB0912  RETURN-CODE:               0BVPK112B
+ SYSOUT ID: BVPK112B                            JOBNAME: BVPK112B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161702       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:01:57       
+ SYSOUT ID: BVPK112A                            JOBNAME: BVPK112A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161703       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:31       
+ SYSOUT ID: BVPK112C                            JOBNAME: BVPK112C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     
+ GEN:       5668                                JOBID:   J0161826       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:02:06       
+ GDVS013A RETURN-CODE:          0BVPK260A
+ SYSOUT ID: BVPK260A                            JOBNAME: BVPK260A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 23/10/2023     
+ GEN:       5648                                JOBID:   J0176106       PRINT TIME: 07:06:28         ARCHIVE TIME: 23:41:56       
+ PKB0918  RETURN-CODE:               0

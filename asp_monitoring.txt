@@ -1,0 +1,22 @@
+=================================================================================================================================================================
+BVPK002C
+~~~~~~~~
+* SYSOUT ID: BVPK002C                            JOBNAME: BVPK002C       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     *
+* GEN:       5671                                JOBID:   J0093435       PRINT TIME: 07:06:28         ARCHIVE TIME: 21:38:26       *
+ PKB0081  GES: A VSNR: 870522310268 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870522310268 Fälligkeit: 20231114
+ PKB0081  GES: A VSNR: 870523785197 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+******** PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870523785197 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 870525019211 Fälligkeit: 20231111 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870525019211 Fälligkeit: 20231111
+ PKB0081  GES: A VSNR: 870553022937 Fälligkeit: 20231107 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 870553022937 Fälligkeit: 20231107
+ PKB0081  GES: A VSNR: 880120006355 Fälligkeit: 20231115 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880120006355 Fälligkeit: 20231115
+ PKB0081  GES: A VSNR: 880520215123 Fälligkeit: 20231114 kein gültiges Bestands-Kz.
+ PKB0081  Police enthält keinen gültigen/relevanten Vertrag: A VSNR: 880520215123 Fälligkeit: 20231114
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ PKB0081  RETURN-CODE:               4
+this is new line:1
+this is new second line:1
+PKB0082  RETURN-CODE:               0

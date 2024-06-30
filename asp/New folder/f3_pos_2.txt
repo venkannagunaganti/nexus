@@ -1,0 +1,11 @@
+BLJS706A
+~~~~~~~~
+* SYSOUT ID: BLJS706A                            JOBNAME: BLJS706A       PRINT DATE: 16/11/2023       ARCHIVE DATE: 15/11/2023     *
+* GEN:       5671                                JOBID:   J0088068       PRINT TIME: 07:09:15         ARCHIVE TIME: 20:19:23       *
+ GFB0538  GF538A1               0  Fehlersätze geschrieben - das sind
+ GFB0538  GF538A1               0   abgewiesene Verträge
+ GFB0538  GF538A3               0  in zus. Fehlerdatei geschr. Sätze
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ GFB0538  RETURN-CODE:               0
+GDG: BGLA.R3.PK0.BVPK050A.PK350AC.G0594V00
+GDG: BGLA.R1.JS0.BVJS706A.GF538A1.G0297V00

@@ -1,0 +1,17 @@
+  ======================================================================================================================================================
+  BVKW820A
+  ~~~~~~~~
+> SYSOUT ID: BVKW820A                            JOBNAME: BVKW820A       PRINT DATE: 03/01/2024       ARCHIVE DATE: 02/01/2024
+  GEN:       5719                                JOBID:   J0061917       PRINT TIME: 14:52:15         ARCHIVE TIME: 21:36:39
+  ------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+> ABSTIMMZAHLEN  AUS  MASCHINELLER SCHNITTSTELLE PROB / INK
+  
+  Z30805.01I - SAETZE GELESEN             0000000047
+  Z30805.01I -    FUNKTION = P  BERLESEN 0000000000
+  Z30805.01I -    OHNE WERTE    BERLESEN 0000000000
+  Z30805.01I -    FALSCHE DATEN BERLESEN 0000000000
+  Z30805.02I - SAETZE VERARBEITET         0000000047
+  Z30805.03I - SAETZE GESCHRIEBEN         0000000047
+  Z30805.04I - SAETZE RECHNG-BEGL         0000000000
+  

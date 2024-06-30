@@ -1,0 +1,6 @@
+BVPK112B
+~~~~~~~~
+* SYSOUT ID: BVPK112B                            JOBNAME: BVPK112B       PRINT DATE: 16/11/2023       ARCHIVE DATE: 13/11/2023     *
+* GEN:       5668                                JOBID:   J0161702       PRINT TIME: 07:06:28         ARCHIVE TIME: 05:01:57       *
+ NUMBER OF RECORDS IN TABLE=      561  LINES=    561
+ NUMBER OF RECORDS IN TABLE=      561  LINES=    561
